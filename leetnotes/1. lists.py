@@ -17,6 +17,8 @@ for i,val in enumerate([1,2,3]):
 	print('i',i)
 	print('val',val)
 
+''' Counting '''
+# return sheep.count(True)
 
 
 ''' Adding items in array '''
